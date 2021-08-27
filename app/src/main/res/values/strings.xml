@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Random Music Player</string>
+    <string name="refresh_song">Refresh Song</string>
+    <string name="song_name">Song Name</string>
+    <string name="play">Play</string>
+    <string name="next">Random</string>
+    <string name="prev">Prev</string>
+    <string name="song_image">Song Image</string>
+    <string name="song_popularity">Song Popularity</string>
+    <string name="popularity">Popularity :</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="refresh_playlist">Refresh Playlist</string>
+</resources>
